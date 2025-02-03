@@ -1,5 +1,3 @@
-I'll help you prepare comprehensive notes on the software project types, evolution of programming, and design methodologies.
-
 # Software Project Types and Methodologies
 
 ## Types of Software Projects
